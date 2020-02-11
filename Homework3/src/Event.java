@@ -1,4 +1,4 @@
-
+// A class representing an Event
 public class Event {
 
 	public int reportTime;

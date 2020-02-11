@@ -1,3 +1,4 @@
+// A priority queue class meant to handle the events and choose the best one to look into first accordingly
 public class EventPriorityQueue {
 
 	class Node {

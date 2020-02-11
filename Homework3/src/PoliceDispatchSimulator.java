@@ -1,7 +1,7 @@
 import java.lang.IllegalArgumentException;
 
 /*
- * A class to represent a police dispatch simulator
+ * A class meant to represent a police dispatch simulator, using the Event, EventPriorityQueue, and EventType
  */
 public class PoliceDispatchSimulator {
 
